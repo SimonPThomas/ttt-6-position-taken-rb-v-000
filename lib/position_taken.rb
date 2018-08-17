@@ -9,5 +9,3 @@ end
 if position_taken? == false || nil
   puts index
 end
-
-

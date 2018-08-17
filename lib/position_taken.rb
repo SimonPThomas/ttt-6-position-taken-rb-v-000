@@ -11,4 +11,3 @@ if position_taken? == false || nil
 end
 
 
-position_taken? (board, index)
